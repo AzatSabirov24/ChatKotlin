@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861631535406",
+    "firebase_url": "https://chat-95aed-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chat-95aed",
+    "storage_bucket": "chat-95aed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861631535406:android:cac7cfd68a6a884d5e42bf",
+        "android_client_info": {
+          "package_name": "com.azat_sabirov.chatkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861631535406-eml0qntul0dri57m89b98b62pflkj8b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTldJxM_BYWtqZMLIuhucIvtA-Ef9Svpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861631535406-eml0qntul0dri57m89b98b62pflkj8b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

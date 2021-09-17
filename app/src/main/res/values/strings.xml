@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat Kotlin</string>
+    <string name="send_btn_text">Send</string>
+    <string name="hint_message_et">Message</string>
+</resources>
