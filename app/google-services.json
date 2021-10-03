@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "861631535406-0e44an4j99bs7e5alu88maiqcu8lkhsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azat_sabirov.chatkotlin",
+            "certificate_hash": "11d3c53d5f6322d6a69a47caa83b64277a42a9ab"
+          }
+        },
+        {
           "client_id": "861631535406-eml0qntul0dri57m89b98b62pflkj8b5.apps.googleusercontent.com",
           "client_type": 3
         }
